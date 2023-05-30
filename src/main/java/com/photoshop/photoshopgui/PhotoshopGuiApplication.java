@@ -8,6 +8,8 @@ public class PhotoshopGuiApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(PhotoshopGuiApplication.class, args);
+
+		
 	}
 
 }
