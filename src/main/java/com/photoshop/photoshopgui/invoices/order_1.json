@@ -1,0 +1,15 @@
+{
+  "id": 1,
+  "items": [
+    5,
+    10
+  ],
+  "quantity": [
+    2,
+    1
+  ],
+  "total price": 75.5,
+  "time taken": 2280,
+  "pickup date": "2023/05/28",
+  "pickup time": "18:59"
+}
