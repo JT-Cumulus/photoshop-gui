@@ -8,7 +8,12 @@ import org.springframework.web.bind.annotation.GetMapping;
 public class PhotoshopGuiController {
     
     @GetMapping("/")
-    public String getForm(Model model) {
+    public String getMain(Model model) {
+        return "main";
+    }
+
+    @GetMapping("/shop")
+    public String getShop(Model model){
         return "index";
     }
 }
